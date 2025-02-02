@@ -6,12 +6,11 @@
 - 💻 I’m exploring **Broad-Phase Collision Detection with k-d Trees**
 - 🤝 I’m open to collaborations in **Machine Learning Projects and Technical Writing**  
 - 🎭 President of **CineLife**, the movies and theater club at Sitare University  
-- 📫 How to reach me **saksham@gmail.com**
+- 📫 How to reach me **sakshambharti1805@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saksham-bharti-0805ss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saksham-bharti" height="30" width="40" /></a>
-<a href="https://github.com/saksham-bharti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="saksham-bharti" height="30" width="40" /></a>
 </p>
 
 
