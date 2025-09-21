@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Bharti</h1>
 <h3 align="center">A Passionate Developer and Data Enthusiast from India</h3>
 
-- 🔭 I’m currently working on **CGPA Prediction Model** leveraging machine learning algorithms to analyze academic data and forecast students' performance trends.
+- 🔭 I’m recently I was working on **CGPA Prediction Model** leveraging machine learning algorithms to analyze academic data and forecast students' performance trends.
 - 🌱 I’m currently learning **Data Structures, Algorithms and Advanced Machine Learning**  
 - 💻 I’m exploring **Broad-Phase Collision Detection with k-d Trees**
 - 🤝 I’m open to collaborations in **Machine Learning Projects and Technical Writing**  
